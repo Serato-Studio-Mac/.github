@@ -1,4 +1,4 @@
-# Serato Studio – Beat Making & DJ Production Software for macOS  
+# Serato Studio – Beat Making & DJ Production Software
 <div align="center">
   <img src="https://media.imgcdn.org/repo/2023/03/serato-studio/662a201c1b69f-serato-studio-Icon.webp" width="250"/>
 </div>  
